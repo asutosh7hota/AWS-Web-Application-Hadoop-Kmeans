@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.7.0/nv.d3.min.css" rel="stylesheet" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.7.0/nv.d3.min.js"></script>
+    </head>
+    <body>
+        
+    <div id="sample"><svg style="width:800px;height:450px;"></svg></div>
+
+
+    <script>
+
+
+
+            data_sample=[{"values": [{"y": 1, "x": "0km_E_of_San_Ramon"}, {"y": 1, "x": "0km_E_of_The_Geysers"}, {"y": 1, "x": "0km_ENE_of_Carson_City"}, {"y": 1, "x": "0km_ENE_of_Loma_Linda"}, {"y": 1, "x": "0km_ENE_of_Quarry_near_Salinas"}, {"y": 1, "x": "0km_ENE_of_Ridgely"}, {"y": 1, "x": "0km_ENE_of_The_Geysers"}, {"y": 2, "x": "0km_N_of_Lakeland_South"}, {"y": 1, "x": "0km_N_of_The_Geysers"}, {"y": 1, "x": "0km_NE_of_Boqueron"}, {"y": 1, "x": "0km_NNE_of_Augusta"}, {"y": 1, "x": "0km_NNW_of_The_Geysers"}, {"y": 1, "x": "0km_NW_of_Stillwater"}, {"y": 2, "x": "0km_NW_of_The_Geysers"}, {"y": 1, "x": "0km_S_of_Mammoth_Lakes"}, {"y": 1, "x": "0km_S_of_The_Geysers"}, {"y": 1, "x": "0km_SE_of_Quarry_near_Salinas"}, {"y": 1, "x": "0km_SE_of_The_Geysers"}, {"y": 1, "x": "0km_SW_of_Princeton"}, {"y": 1, "x": "0km_W_of_Riverdale"}, {"y": 1, "x": "0km_WNW_of_Peru"}, {"y": 1, "x": "0km_WNW_of_San_Dimas"}, {"y": 1, "x": "0km_WSW_of_Lofall"}, {"y": 1, "x": "100km_ENE_of_Kodiak"}, {"y": 2, "x": "100km_N_of_Manley_Hot_Springs"}, {"y": 5, "x": "100km_S_of_Atka"}, {"y": 1, "x": "100km_S_of_Tanana"}, {"y": 1, "x": "100km_SE_of_Akutan"}, {"y": 3, "x": "100km_SSE_of_Nikolski"}, {"y": 1, "x": "100km_WNW_of_Talkeetna"}, {"y": 1, "x": "101km_ESE_of_Akutan"}, {"y": 1, "x": "101km_ESE_of_Nikolski"}, {"y": 8, "x": "101km_S_of_Atka"}, {"y": 1, "x": "101km_SSW_of_Yakutat"}, {"y": 1, "x": "101km_SW_of_Homer"}, {"y": 1, "x": "101km_W_of_Talkeetna"}, {"y": 1, "x": "101km_WSW_of_Amatignak_Island"}, {"y": 1, "x": "101km_WSW_of_Larsen_Bay"}, {"y": 1, "x": "102km_ESE_of_Akutan"}, {"y": 4, "x": "102km_S_of_Atka"}, {"y": 1, "x": "102km_SE_of_Akutan"}, {"y": 2, "x": "102km_SSE_of_Atka"}, {"y": 1, "x": "102km_SSE_of_Unalaska"}, {"y": 1, "x": "102km_SSW_of_Nikolski"}, {"y": 2, "x": "102km_W_of_Cantwell"}, {"y": 2, "x": "102km_W_of_Willow"}, {"y": 2, "x": "102km_WNW_of_Cantwell"}, {"y": 1, "x": "103km_ENE_of_Kodiak"}, {"y": 1, "x": "103km_N_of_Manley_Hot_Springs"}, {"y": 1, "x": "103km_NE_of_Adak"}, {"y": 6, "x": "103km_S_of_Atka"}, {"y": 1, "x": "103km_SSE_of_Nikolski"}, {"y": 1, "x": "103km_W_of_Cantwell"}, {"y": 1, "x": "103km_WNW_of_Cantwell"}, {"y": 1, "x": "103km_WNW_of_Talkeetna"}, {"y": 1, "x": "104km_NE_of_Kodiak"}, {"y": 1, "x": "104km_NNE_of_Arctic_Village"}, {"y": 1, "x": "104km_NNW_of_Nikiski"}, {"y": 4, "x": "104km_S_of_Atka"}, {"y": 1, "x": "104km_S_of_Tok"}, {"y": 1, "x": "104km_SE_of_Akutan"}, {"y": 1, "x": "104km_SSE_of_Atka"}, {"y": 1, "x": "104km_W_of_Cantwell"}, {"y": 1, "x": "105km_ENE_of_Cape_Yakataga"}, {"y": 1, "x": "105km_NNE_of_Manley_Hot_Springs"}, {"y": 4, "x": "105km_S_of_Atka"}, {"y": 1, "x": "105km_SSE_of_Nikolski"}, {"y": 1, "x": "105km_SW_of_Anchor_Point"}, {"y": 2, "x": "105km_W_of_Cantwell"}, {"y": 1, "x": "105km_W_of_Talkeetna"}, {"y": 1, "x": "105km_WNW_of_Cantwell"}, {"y": 1, "x": "105km_WSW_of_Healy"}, {"y": 1, "x": "106km_N_of_Road_Town"}, {"y": 6, "x": "106km_NW_of_Talkeetna"}, {"y": 2, "x": "106km_S_of_Atka"}, {"y": 1, "x": "106km_SSE_of_Atka"}, {"y": 8, "x": "106km_W_of_Cantwell"}, {"y": 1, "x": "106km_WNW_of_Cantwell"}, {"y": 1, "x": "107km_E_of_Nikolski"}, {"y": 2, "x": "107km_NW_of_Talkeetna"}, {"y": 1, "x": "107km_SW_of_Homer"}, {"y": 7, "x": "107km_W_of_Cantwell"}, {"y": 1, "x": "108km_ENE_of_Kodiak"}, {"y": 1, "x": "108km_NNE_of_Manley_Hot_Springs"}, {"y": 1, "x": "108km_NNW_of_Kobuk"}, {"y": 3, "x": "108km_NW_of_Talkeetna"}, {"y": 1, "x": "108km_S_of_Atka"}, {"y": 1, "x": "108km_SSW_of_Semisopochnoi_Island"}, {"y": 4, "x": "108km_W_of_Cantwell"}, {"y": 1, "x": "108km_W_of_Talkeetna"}, {"y": 1, "x": "109km_NNW_of_Chirikof_Island"}, {"y": 4, "x": "109km_NW_of_Talkeetna"}, {"y": 3, "x": "109km_S_of_Atka"}, {"y": 1, "x": "109km_SE_of_Akutan"}, {"y": 1, "x": "109km_SE_of_Cantwell"}, {"y": 1, "x": "109km_SE_of_Cold_Bay"}, {"y": 1, "x": "109km_SSE_of_Atka"}, {"y": 1, "x": "109km_SW_of_Anchor_Point"}, {"y": 5, "x": "109km_W_of_Cantwell"}, {"y": 1, "x": "109km_W_of_Willow"}], "key": "some", "yAxis": "1"}];
+
+
+        nv.addGraph(function() {
+        var chart = nv.models.lineChart();
+
+        chart.margin({top: 30, right: 60, bottom: 20, left: 60});
+
+        var datum = data_sample;
+
+
+
+            chart.yAxis
+                .tickFormat(d3.format(',.02f'));
+
+
+
+          chart.showLegend(true);
+
+
+    
+
+        
+
+
+
+            d3.select('#sample svg')
+            .datum(datum)
+            .transition().duration(500)
+            .attr('width', 800)
+            .attr('height', 450)
+            .call(chart);
+
+
+        });
+
+
+
+    </script>
+
+    </body>
+</html>

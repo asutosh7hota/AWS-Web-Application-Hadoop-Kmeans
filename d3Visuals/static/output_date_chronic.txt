@@ -1,0 +1,5 @@
+0,None,0	
+2010,Alabama,4	
+2011,Alabama,2	
+2012,Alabama,4	
+2013,Alabama,28	

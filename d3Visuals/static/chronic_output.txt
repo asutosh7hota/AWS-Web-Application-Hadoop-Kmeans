@@ -1,0 +1,535 @@
+0,None,None,0	
+10,Delaware,Alcohol,38	
+10,Delaware,Arthritis,48	
+10,Delaware,Asthma,46	
+10,Delaware,Cancer,5	
+10,Delaware,Cardiovascular Disease,74	
+10,Delaware,Diabetes,92	
+10,Delaware,Tobacco,40	
+11,District of Columbia,Alcohol,38	
+11,District of Columbia,Arthritis,48	
+11,District of Columbia,Asthma,46	
+11,District of Columbia,Cancer,5	
+11,District of Columbia,Cardiovascular Disease,74	
+11,District of Columbia,Diabetes,92	
+11,District of Columbia,Tobacco,40	
+12011,FL - Broward County,Alcohol,3	
+12011,FL - Broward County,Asthma,15	
+12011,FL - Broward County,Cardiovascular Disease,24	
+12011,FL - Broward County,Diabetes,12	
+12057,FL - Hillsborough County,Alcohol,3	
+12057,FL - Hillsborough County,Asthma,15	
+12057,FL - Hillsborough County,Cardiovascular Disease,24	
+12057,FL - Hillsborough County,Diabetes,12	
+12086,FL - Miami-Dade County,Alcohol,3	
+12086,FL - Miami-Dade County,Asthma,15	
+12086,FL - Miami-Dade County,Cardiovascular Disease,24	
+12086,FL - Miami-Dade County,Diabetes,12	
+12095,FL - Orange County,Alcohol,3	
+12095,FL - Orange County,Asthma,15	
+12095,FL - Orange County,Cardiovascular Disease,24	
+12095,FL - Orange County,Diabetes,12	
+12099,FL - Palm Beach County,Alcohol,3	
+12099,FL - Palm Beach County,Asthma,15	
+12099,FL - Palm Beach County,Cardiovascular Disease,24	
+12099,FL - Palm Beach County,Diabetes,12	
+12103,FL - Pinellas County,Alcohol,3	
+12103,FL - Pinellas County,Asthma,15	
+12103,FL - Pinellas County,Cardiovascular Disease,24	
+12103,FL - Pinellas County,Diabetes,12	
+12,Florida,Alcohol,38	
+12,Florida,Arthritis,48	
+12,Florida,Asthma,46	
+12,Florida,Cancer,5	
+12,Florida,Cardiovascular Disease,74	
+12,Florida,Diabetes,92	
+12,Florida,Tobacco,40	
+13121,GA - Fulton County,Alcohol,3	
+13121,GA - Fulton County,Asthma,15	
+13121,GA - Fulton County,Cardiovascular Disease,24	
+13121,GA - Fulton County,Diabetes,12	
+13,Georgia,Alcohol,38	
+13,Georgia,Arthritis,48	
+13,Georgia,Asthma,46	
+13,Georgia,Cancer,5	
+13,Georgia,Cardiovascular Disease,74	
+13,Georgia,Diabetes,92	
+13,Georgia,Tobacco,40	
+15,Hawaii,Alcohol,38	
+15,Hawaii,Arthritis,48	
+15,Hawaii,Asthma,46	
+15,Hawaii,Cancer,5	
+15,Hawaii,Cardiovascular Disease,74	
+15,Hawaii,Diabetes,92	
+15,Hawaii,Tobacco,40	
+16,Idaho,Alcohol,38	
+16,Idaho,Arthritis,48	
+16,Idaho,Asthma,46	
+16,Idaho,Cancer,5	
+16,Idaho,Cardiovascular Disease,74	
+16,Idaho,Diabetes,92	
+16,Idaho,Tobacco,40	
+17031,IL - Cook County,Alcohol,3	
+17031,IL - Cook County,Asthma,15	
+17031,IL - Cook County,Cardiovascular Disease,24	
+17031,IL - Cook County,Diabetes,12	
+17043,IL - DuPage County,Alcohol,3	
+17043,IL - DuPage County,Asthma,15	
+17043,IL - DuPage County,Cardiovascular Disease,24	
+17043,IL - DuPage County,Diabetes,12	
+17,Illinois,Alcohol,38	
+17,Illinois,Arthritis,48	
+17,Illinois,Asthma,46	
+17,Illinois,Cancer,5	
+17,Illinois,Cardiovascular Disease,74	
+17,Illinois,Diabetes,92	
+17,Illinois,Tobacco,40	
+18,Indiana,Alcohol,38	
+18,Indiana,Arthritis,48	
+18,Indiana,Asthma,46	
+18,Indiana,Cancer,5	
+18,Indiana,Cardiovascular Disease,74	
+18,Indiana,Diabetes,92	
+18,Indiana,Tobacco,40	
+19,Iowa,Alcohol,38	
+19,Iowa,Arthritis,48	
+19,Iowa,Asthma,46	
+19,Iowa,Cancer,5	
+19,Iowa,Cardiovascular Disease,74	
+19,Iowa,Diabetes,92	
+19,Iowa,Tobacco,40	
+1,Alabama,Alcohol,38	
+1,Alabama,Arthritis,48	
+1,Alabama,Asthma,46	
+1,Alabama,Cancer,5	
+1,Alabama,Cardiovascular Disease,74	
+1,Alabama,Diabetes,92	
+1,Alabama,Tobacco,40	
+20,Kansas,Alcohol,38	
+20,Kansas,Arthritis,48	
+20,Kansas,Asthma,46	
+20,Kansas,Cancer,5	
+20,Kansas,Cardiovascular Disease,74	
+20,Kansas,Diabetes,92	
+20,Kansas,Tobacco,40	
+21,Kentucky,Alcohol,38	
+21,Kentucky,Arthritis,48	
+21,Kentucky,Asthma,46	
+21,Kentucky,Cancer,5	
+21,Kentucky,Cardiovascular Disease,74	
+21,Kentucky,Diabetes,92	
+21,Kentucky,Tobacco,40	
+22,Louisiana,Alcohol,38	
+22,Louisiana,Arthritis,48	
+22,Louisiana,Asthma,46	
+22,Louisiana,Cancer,5	
+22,Louisiana,Cardiovascular Disease,74	
+22,Louisiana,Diabetes,92	
+22,Louisiana,Tobacco,40	
+23,Maine,Alcohol,38	
+23,Maine,Arthritis,48	
+23,Maine,Asthma,46	
+23,Maine,Cancer,5	
+23,Maine,Cardiovascular Disease,74	
+23,Maine,Diabetes,92	
+23,Maine,Tobacco,40	
+24,Maryland,Alcohol,38	
+24,Maryland,Arthritis,48	
+24,Maryland,Asthma,46	
+24,Maryland,Cancer,5	
+24,Maryland,Cardiovascular Disease,74	
+24,Maryland,Diabetes,92	
+24,Maryland,Tobacco,40	
+25,Massachusetts,Alcohol,38	
+25,Massachusetts,Arthritis,48	
+25,Massachusetts,Asthma,46	
+25,Massachusetts,Cancer,5	
+25,Massachusetts,Cardiovascular Disease,74	
+25,Massachusetts,Diabetes,92	
+25,Massachusetts,Tobacco,40	
+26125,MI - Oakland County,Alcohol,3	
+26125,MI - Oakland County,Asthma,15	
+26125,MI - Oakland County,Cardiovascular Disease,24	
+26125,MI - Oakland County,Diabetes,12	
+26163,MI - Wayne County,Alcohol,3	
+26163,MI - Wayne County,Asthma,15	
+26163,MI - Wayne County,Cardiovascular Disease,24	
+26163,MI - Wayne County,Diabetes,12	
+26,Michigan,Alcohol,38	
+26,Michigan,Arthritis,48	
+26,Michigan,Asthma,46	
+26,Michigan,Cancer,5	
+26,Michigan,Cardiovascular Disease,74	
+26,Michigan,Diabetes,92	
+26,Michigan,Tobacco,40	
+27053,MN - Hennepin County,Alcohol,3	
+27053,MN - Hennepin County,Asthma,15	
+27053,MN - Hennepin County,Cardiovascular Disease,24	
+27053,MN - Hennepin County,Diabetes,12	
+27,Minnesota,Alcohol,38	
+27,Minnesota,Arthritis,48	
+27,Minnesota,Asthma,46	
+27,Minnesota,Cancer,5	
+27,Minnesota,Cardiovascular Disease,74	
+27,Minnesota,Diabetes,92	
+27,Minnesota,Tobacco,40	
+28,Mississippi,Alcohol,38	
+28,Mississippi,Arthritis,48	
+28,Mississippi,Asthma,46	
+28,Mississippi,Cancer,5	
+28,Mississippi,Cardiovascular Disease,74	
+28,Mississippi,Diabetes,92	
+28,Mississippi,Tobacco,40	
+29189,MO - St. Louis County,Alcohol,3	
+29189,MO - St. Louis County,Asthma,15	
+29189,MO - St. Louis County,Cardiovascular Disease,24	
+29189,MO - St. Louis County,Diabetes,12	
+29,Missouri,Alcohol,38	
+29,Missouri,Arthritis,48	
+29,Missouri,Asthma,46	
+29,Missouri,Cancer,5	
+29,Missouri,Cardiovascular Disease,74	
+29,Missouri,Diabetes,92	
+29,Missouri,Tobacco,40	
+2,Alaska,Alcohol,38	
+2,Alaska,Arthritis,48	
+2,Alaska,Asthma,46	
+2,Alaska,Cancer,5	
+2,Alaska,Cardiovascular Disease,74	
+2,Alaska,Diabetes,92	
+2,Alaska,Tobacco,40	
+30,Montana,Alcohol,38	
+30,Montana,Arthritis,48	
+30,Montana,Asthma,46	
+30,Montana,Cancer,5	
+30,Montana,Cardiovascular Disease,74	
+30,Montana,Diabetes,92	
+30,Montana,Tobacco,40	
+31,Nebraska,Alcohol,38	
+31,Nebraska,Arthritis,48	
+31,Nebraska,Asthma,46	
+31,Nebraska,Cancer,5	
+31,Nebraska,Cardiovascular Disease,74	
+31,Nebraska,Diabetes,92	
+31,Nebraska,Tobacco,40	
+32003,NV - Clark County,Alcohol,3	
+32003,NV - Clark County,Asthma,15	
+32003,NV - Clark County,Cardiovascular Disease,24	
+32003,NV - Clark County,Diabetes,12	
+32,Nevada,Alcohol,38	
+32,Nevada,Arthritis,48	
+32,Nevada,Asthma,46	
+32,Nevada,Cancer,5	
+32,Nevada,Cardiovascular Disease,74	
+32,Nevada,Diabetes,92	
+32,Nevada,Tobacco,40	
+33,New Hampshire,Alcohol,38	
+33,New Hampshire,Arthritis,48	
+33,New Hampshire,Asthma,46	
+33,New Hampshire,Cancer,5	
+33,New Hampshire,Cardiovascular Disease,74	
+33,New Hampshire,Diabetes,92	
+33,New Hampshire,Tobacco,40	
+34,New Jersey,Alcohol,38	
+34,New Jersey,Arthritis,48	
+34,New Jersey,Asthma,46	
+34,New Jersey,Cancer,5	
+34,New Jersey,Cardiovascular Disease,74	
+34,New Jersey,Diabetes,92	
+34,New Jersey,Tobacco,40	
+35,New Mexico,Alcohol,38	
+35,New Mexico,Arthritis,48	
+35,New Mexico,Asthma,46	
+35,New Mexico,Cancer,5	
+35,New Mexico,Cardiovascular Disease,74	
+35,New Mexico,Diabetes,92	
+35,New Mexico,Tobacco,40	
+36029,NY - Erie County,Alcohol,3	
+36029,NY - Erie County,Asthma,15	
+36029,NY - Erie County,Cardiovascular Disease,24	
+36029,NY - Erie County,Diabetes,12	
+36055,NY - Monroe County,Alcohol,3	
+36055,NY - Monroe County,Asthma,15	
+36055,NY - Monroe County,Cardiovascular Disease,24	
+36055,NY - Monroe County,Diabetes,12	
+36059,NY - Nassau County,Alcohol,3	
+36059,NY - Nassau County,Asthma,15	
+36059,NY - Nassau County,Cardiovascular Disease,24	
+36059,NY - Nassau County,Diabetes,12	
+36061,NY - New York City,Alcohol,3	
+36061,NY - New York City,Asthma,15	
+36061,NY - New York City,Cardiovascular Disease,24	
+36061,NY - New York City,Diabetes,12	
+36103,NY - Suffolk County,Alcohol,3	
+36103,NY - Suffolk County,Asthma,15	
+36103,NY - Suffolk County,Cardiovascular Disease,24	
+36103,NY - Suffolk County,Diabetes,12	
+36,New York,Alcohol,38	
+36,New York,Arthritis,48	
+36,New York,Asthma,46	
+36,New York,Cancer,5	
+36,New York,Cardiovascular Disease,74	
+36,New York,Diabetes,92	
+36,New York,Tobacco,40	
+37,North Carolina,Alcohol,38	
+37,North Carolina,Arthritis,48	
+37,North Carolina,Asthma,46	
+37,North Carolina,Cancer,5	
+37,North Carolina,Cardiovascular Disease,74	
+37,North Carolina,Diabetes,92	
+37,North Carolina,Tobacco,40	
+38,North Dakota,Alcohol,38	
+38,North Dakota,Arthritis,48	
+38,North Dakota,Asthma,46	
+38,North Dakota,Cancer,5	
+38,North Dakota,Cardiovascular Disease,74	
+38,North Dakota,Diabetes,92	
+38,North Dakota,Tobacco,40	
+39049,OH - Franklin County,Alcohol,3	
+39049,OH - Franklin County,Asthma,15	
+39049,OH - Franklin County,Cardiovascular Disease,24	
+39049,OH - Franklin County,Diabetes,12	
+39,Ohio,Alcohol,38	
+39,Ohio,Arthritis,48	
+39,Ohio,Asthma,46	
+39,Ohio,Cancer,5	
+39,Ohio,Cardiovascular Disease,74	
+39,Ohio,Diabetes,92	
+39,Ohio,Tobacco,40	
+4013,AZ - Maricopa County,Alcohol,3	
+4013,AZ - Maricopa County,Asthma,15	
+4013,AZ - Maricopa County,Cardiovascular Disease,24	
+4013,AZ - Maricopa County,Diabetes,12	
+40,Oklahoma,Alcohol,38	
+40,Oklahoma,Arthritis,48	
+40,Oklahoma,Asthma,46	
+40,Oklahoma,Cancer,5	
+40,Oklahoma,Cardiovascular Disease,74	
+40,Oklahoma,Diabetes,92	
+40,Oklahoma,Tobacco,40	
+41,Oregon,Alcohol,38	
+41,Oregon,Arthritis,48	
+41,Oregon,Asthma,46	
+41,Oregon,Cancer,5	
+41,Oregon,Cardiovascular Disease,74	
+41,Oregon,Diabetes,92	
+41,Oregon,Tobacco,40	
+42003,PA - Allegheny County,Alcohol,3	
+42003,PA - Allegheny County,Asthma,15	
+42003,PA - Allegheny County,Cardiovascular Disease,24	
+42003,PA - Allegheny County,Diabetes,12	
+42101,PA - Philadelphia County,Alcohol,3	
+42101,PA - Philadelphia County,Asthma,15	
+42101,PA - Philadelphia County,Cardiovascular Disease,24	
+42101,PA - Philadelphia County,Diabetes,12	
+42,Pennsylvania,Alcohol,38	
+42,Pennsylvania,Arthritis,48	
+42,Pennsylvania,Asthma,46	
+42,Pennsylvania,Cancer,5	
+42,Pennsylvania,Cardiovascular Disease,74	
+42,Pennsylvania,Diabetes,92	
+42,Pennsylvania,Tobacco,40	
+44,Rhode Island,Alcohol,38	
+44,Rhode Island,Arthritis,48	
+44,Rhode Island,Asthma,46	
+44,Rhode Island,Cancer,5	
+44,Rhode Island,Cardiovascular Disease,74	
+44,Rhode Island,Diabetes,92	
+44,Rhode Island,Tobacco,40	
+45,South Carolina,Alcohol,38	
+45,South Carolina,Arthritis,48	
+45,South Carolina,Asthma,46	
+45,South Carolina,Cancer,5	
+45,South Carolina,Cardiovascular Disease,74	
+45,South Carolina,Diabetes,92	
+45,South Carolina,Tobacco,40	
+46,South Dakota,Alcohol,38	
+46,South Dakota,Arthritis,48	
+46,South Dakota,Asthma,46	
+46,South Dakota,Cancer,5	
+46,South Dakota,Cardiovascular Disease,74	
+46,South Dakota,Diabetes,92	
+46,South Dakota,Tobacco,40	
+47,Tennessee,Alcohol,38	
+47,Tennessee,Arthritis,48	
+47,Tennessee,Asthma,46	
+47,Tennessee,Cancer,5	
+47,Tennessee,Cardiovascular Disease,74	
+47,Tennessee,Diabetes,92	
+47,Tennessee,Tobacco,40	
+48029,TX - Bexar County,Alcohol,3	
+48029,TX - Bexar County,Asthma,15	
+48029,TX - Bexar County,Cardiovascular Disease,24	
+48029,TX - Bexar County,Diabetes,12	
+48201,TX - Harris County,Alcohol,3	
+48201,TX - Bexar County,Asthma,15	
+48201,TX - Harris County,Cardiovascular Disease,24	
+48201,TX - Harris County,Diabetes,12	
+48439,TX - Tarrant County,Alcohol,3	
+48439,TX - Tarrant County,Asthma,15	
+48439,TX - Tarrant County,Cardiovascular Disease,24	
+48439,TX - Tarrant County,Diabetes,12	
+48,Texas,Alcohol,38	
+48,Texas,Arthritis,48	
+48,Texas,Asthma,46	
+48,Texas,Cancer,5	
+48,Texas,Cardiovascular Disease,74	
+48,Texas,Diabetes,92	
+48,Texas,Tobacco,40	
+49035,UT - Salt Lake County,Alcohol,3	
+49035,UT - Salt Lake County,Asthma,15	
+49035,UT - Salt Lake County,Cardiovascular Disease,24	
+49035,UT - Salt Lake County,Diabetes,12	
+49,Utah,Alcohol,38	
+49,Utah,Arthritis,48	
+49,Utah,Asthma,46	
+49,Utah,Cancer,5	
+49,Utah,Cardiovascular Disease,74	
+49,Utah,Diabetes,92	
+49,Utah,Tobacco,40	
+4,Arizona,Alcohol,38	
+4,Arizona,Arthritis,48	
+4,Arizona,Asthma,46	
+4,Arizona,Cancer,5	
+4,Arizona,Cardiovascular Disease,74	
+4,Arizona,Diabetes,92	
+4,Arizona,Tobacco,40	
+50,Vermont,Alcohol,38	
+50,Vermont,Arthritis,48	
+50,Vermont,Asthma,46	
+50,Vermont,Cancer,5	
+50,Vermont,Cardiovascular Disease,74	
+50,Vermont,Diabetes,92	
+50,Vermont,Tobacco,40	
+51059,VA - Fairfax County,Alcohol,3	
+51059,VA - Fairfax County,Asthma,15	
+51059,VA - Fairfax County,Cardiovascular Disease,24	
+51059,VA - Fairfax County,Diabetes,12	
+51,Virginia,Alcohol,38	
+51,Virginia,Arthritis,48	
+51,Virginia,Asthma,46	
+51,Virginia,Cancer,5	
+51,Virginia,Cardiovascular Disease,74	
+51,Virginia,Diabetes,92	
+51,Virginia,Tobacco,40	
+53033,WA - Seattle-King County,Alcohol,3	
+53033,WA - Seattle-King County,Asthma,15	
+53033,WA - Seattle-King County,Cardiovascular Disease,24	
+53033,WA - Seattle-King County,Diabetes,12	
+53,Washington,Alcohol,38	
+53,Washington,Arthritis,48	
+53,Washington,Asthma,46	
+53,Washington,Cancer,5	
+53,Washington,Cardiovascular Disease,74	
+53,Washington,Diabetes,92	
+53,Washington,Tobacco,40	
+54,West Virginia,Alcohol,38	
+54,West Virginia,Arthritis,48	
+54,West Virginia,Asthma,46	
+54,West Virginia,Cancer,5	
+54,West Virginia,Cardiovascular Disease,74	
+54,West Virginia,Diabetes,92	
+54,West Virginia,Tobacco,40	
+55,Wisconsin,Alcohol,38	
+55,Wisconsin,Arthritis,48	
+55,Wisconsin,Asthma,46	
+55,Wisconsin,Cancer,5	
+55,Wisconsin,Cardiovascular Disease,74	
+55,Wisconsin,Diabetes,92	
+55,Wisconsin,Tobacco,40	
+56,Wyoming,Alcohol,38	
+56,Wyoming,Arthritis,48	
+56,Wyoming,Asthma,46	
+56,Wyoming,Cancer,5	
+56,Wyoming,Cardiovascular Disease,74	
+56,Wyoming,Diabetes,92	
+56,Wyoming,Tobacco,40	
+5,Arkansas,Alcohol,38	
+5,Arkansas,Arthritis,48	
+5,Arkansas,Asthma,46	
+5,Arkansas,Cancer,5	
+5,Arkansas,Cardiovascular Disease,74	
+5,Arkansas,Diabetes,92	
+5,Arkansas,Tobacco,40	
+6001,CA - Alameda County,Alcohol,3	
+6001,CA - Alameda County,Asthma,15	
+6001,CA - Alameda County,Cardiovascular Disease,24	
+6001,CA - Alameda County,Diabetes,12	
+6013,CA - Contra Costa County,Alcohol,3	
+6013,CA - Contra Costa County,Asthma,15	
+6013,CA - Contra Costa County,Cardiovascular Disease,24	
+6013,CA - Contra Costa County,Diabetes,12	
+6037,CA - Los Angeles County,Alcohol,3	
+6037,CA - Los Angeles County,Asthma,15	
+6037,CA - Los Angeles County,Cardiovascular Disease,24	
+6037,CA - Los Angeles County,Diabetes,12	
+6059,CA - Orange County,Alcohol,3	
+6059,CA - Orange County,Asthma,15	
+6059,CA - Orange County,Cardiovascular Disease,24	
+6059,CA - Orange County,Diabetes,12	
+6065,CA - Riverside County,Alcohol,3	
+6065,CA - Riverside County,Asthma,15	
+6065,CA - Riverside County,Cardiovascular Disease,24	
+6065,CA - Riverside County,Diabetes,12	
+6067,CA - Sacramento County,Alcohol,3	
+6067,CA - Sacramento County,Asthma,15	
+6067,CA - Sacramento County,Cardiovascular Disease,24	
+6067,CA - Sacramento County,Diabetes,12	
+6071,CA - San Bernardino County,Alcohol,3	
+6071,CA - San Bernardino County,Asthma,15	
+6071,CA - San Bernardino County,Cardiovascular Disease,24	
+6071,CA - San Bernardino County,Diabetes,12	
+6073,CA - San Diego County,Alcohol,3	
+6073,CA - San Diego County,Asthma,15	
+6073,CA - San Diego County,Cardiovascular Disease,24	
+6073,CA - San Diego County,Diabetes,12	
+6085,CA - Santa Clara County,Alcohol,3	
+6085,CA - Santa Clara County,Asthma,15	
+6085,CA - Santa Clara County,Cardiovascular Disease,24	
+6085,CA - Santa Clara County,Diabetes,12	
+66,Guam,Alcohol,35	
+66,Guam,Arthritis,48	
+66,Guam,Asthma,31	
+66,Guam,Cancer,5	
+66,Guam,Cardiovascular Disease,50	
+66,Guam,Diabetes,80	
+66,Guam,Tobacco,40	
+6,California,Alcohol,38	
+6,California,Arthritis,48	
+6,California,Asthma,46	
+6,California,Cancer,5	
+6,California,Cardiovascular Disease,74	
+6,California,Diabetes,92	
+6,California,Tobacco,40	
+72,Puerto Rico,Alcohol,35	
+72,Puerto Rico,Arthritis,48	
+72,Puerto Rico,Asthma,31	
+72,Puerto Rico,Cancer,5	
+72,Puerto Rico,Cardiovascular Disease,50	
+72,Puerto Rico,Diabetes,80	
+72,Puerto Rico,Tobacco,40	
+78,Virgin Islands,Alcohol,35	
+78,Virgin Islands,Arthritis,48	
+78,Virgin Islands,Asthma,31	
+78,Virgin Islands,Cancer,4	
+78,Virgin Islands,Cardiovascular Disease,50	
+78,Virgin Islands,Diabetes,80	
+78,Virgin Islands,Tobacco,40	
+8005,CO - Tri-County,Alcohol,3	
+8005,CO - Tri-County,Asthma,15	
+8005,CO - Tri-County,Cardiovascular Disease,24	
+8005,CO - Tri-County,Diabetes,12	
+8,Colorado,Alcohol,38	
+8,Colorado,Arthritis,48	
+8,Colorado,Asthma,46	
+8,Colorado,Cancer,5	
+8,Colorado,Cardiovascular Disease,74	
+8,Colorado,Diabetes,92	
+8,Colorado,Tobacco,40	
+9,Connecticut,Alcohol,38	
+9,Connecticut,Arthritis,48	
+9,Connecticut,Asthma,46	
+9,Connecticut,Cancer,5	
+9,Connecticut,Cardiovascular Disease,74	
+9,Connecticut,Diabetes,92	
+9,Connecticut,Tobacco,40	
